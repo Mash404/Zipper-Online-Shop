@@ -1,0 +1,35 @@
+body{
+	font-size: 14px;
+	color: #666;
+}
+.signup-container{
+	height: 80vh;
+	width: 100%
+}
+.signup-form{
+	max-width: 100%;
+	width: 370px;
+	padding: 15px;
+	margin: auto;
+}
+.form-control{
+	font-size: 15px;
+	min-height: 48px;
+	font-weight: 500;
+}
+.form-control:focus{
+	border-color: #E96453;
+}
+.forgot-link{
+	font-size: 13px;
+}
+.forgot-link label{
+	margin-bottom: 0;
+}
+.signup-form a{ 
+	text-decoration: none;
+	color: #666;
+}
+.signup-form a:hover{
+	color: #E96453;
+}

@@ -1,0 +1,36 @@
+.container-product{
+	margin-top: 70px; 
+}
+.newarrival{
+	background: #e98a53b3;
+	width: 50px;
+	color: #343a40;
+	font-size: 12px;
+	font-weight: bold;	
+}
+.col-md-7{
+	color: #343a40;
+}
+.price{
+	color: #e98a53b3;
+	font-size: 22px;
+	font-weight: bold;
+	padding-top: 20px;
+}
+.col-md-7 label b{
+	color: #e98a53b3;
+}
+input{
+	border: 1px solid #ccc;
+	font-weight: bold;
+	height: 33px;
+	text-align: center;
+	width: 30px;
+}
+.cart{
+	background: ;
+	color: #f3f3f3;
+	font-size: 15px;
+	margin-left: 20px;
+
+}

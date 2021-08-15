@@ -1,0 +1,32 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background-color: lightgray; 
+}
+.main{
+	padding: 15px;
+
+}
+.sidebar{
+	background-color: #343a40;
+	color: #f3f3f3;
+	height: 100%
+}
+/*.sidebar a{
+	margin-left: 10px;
+	display: block;
+	color: #f3f3f3;
+	padding-bottom: 10px;
+	font-size: 30px;
+	text-decoration: none;
+}*/
+.card{
+	position: relative;
+	display: flex;
+	flex-direction: column;
+}
+.content{
+	background-color: whitesmoke;
+}
